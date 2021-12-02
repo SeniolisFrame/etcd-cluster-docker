@@ -1,7 +1,7 @@
 # etcd-cluster-docker
 
 ## Reference
-### https://garutilorenzo.github.io/deploy-high-available-etcd-cluster-using-docker/
+##### https://garutilorenzo.github.io/deploy-high-available-etcd-cluster-using-docker/
 
 1. Start docker
 
