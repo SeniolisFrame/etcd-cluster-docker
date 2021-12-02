@@ -11,7 +11,7 @@ docker-compose up
 2. Connet with go
 lib
 ``` c
-	go get go.etcd.io/etcd/clientv3
+go get go.etcd.io/etcd/clientv3
 ```
 ``` c
 config := clientv3.Config{
