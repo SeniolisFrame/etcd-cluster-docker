@@ -9,10 +9,11 @@ docker-compose up
 ```
 
 2. Connet with go
-#### lib
+2.1 lib
 ``` c
 go get go.etcd.io/etcd/clientv3
 ```
+2.2 code
 ``` c
 config := clientv3.Config{
 	Endpoints: []string{"localhost:23790", "localhost:23791", "localhost:23782"},
